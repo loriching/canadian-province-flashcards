@@ -47,7 +47,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app - I had an inconsistent use of flexboses which made it so that I had trouble centering things at times. I was also coding with splitscreen so that threw some of my centering off.
+Describe any challenges encountered while building the app - I had an inconsistent use of flexboxes which made it so that I had trouble centering things at times. I was also coding with splitscreen so that threw some of my centering off.
 
 ## License
 
